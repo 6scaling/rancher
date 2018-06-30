@@ -1,2 +1,1 @@
-# rancher
-rancher
+# Rancher 6scaling Catalog
