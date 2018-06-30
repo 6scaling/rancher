@@ -1,0 +1,14 @@
+name: simple-nginx
+version: 1.0.0
+appVersion: 1.0.0
+description: Test de la stack Nginx en mode Kubernetes/Rancher
+icon: https://site.6scaling.com/img/logo_2017.png
+keywords:
+- 6scaling
+- nginx
+- application
+home: http://www.6scaling.com/
+maintainers:
+- name: 6scaling
+  email: contact@6scaling.com
+engine: gotpl
