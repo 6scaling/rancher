@@ -2,7 +2,7 @@
 ## ref: https://hub.docker.com/r/bitnami/wordpress/tags/
 ##
 image:
-  registry: registry.6scaling.com:5000
+  registry: https://registry.6scaling.com:5000
   repository: bkm_back_eustg_staging
   tag: latest
   ## Specify a imagePullPolicy
