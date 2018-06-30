@@ -1,4 +1,4 @@
-name: bkm_backoffice
+name: bkm-backoffice
 version: 1.0.0
 appVersion: 2.0.0
 description: Test de la stack BackMarket en mode Kubernetes/Rancher
