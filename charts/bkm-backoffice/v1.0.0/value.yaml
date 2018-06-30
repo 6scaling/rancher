@@ -20,7 +20,7 @@ image:
 ## User of the application
 ## ref: https://github.com/bitnami/bitnami-docker-wordpress#environment-variables
 ##
-GIT_URL: 'https://6scaling:fe45bc674e4ae0d2110f24fa0dc47aac205599bb@github.com/BackMarket/badoom.git'
+GIT_URL: 'https://6scaling:TOKEN@github.com/BackMarket/badoom.git'
 GIT_ENV: 'staging'
 GIT_PATH: '/var/www/jung/badoom'
 DOCKER_APP: 'toto'

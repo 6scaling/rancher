@@ -2,6 +2,13 @@ categories:
 - Blog
 - CMS
 questions:
+- variable: GIT_URL
+  default: "https://6scaling:TOKEN@github.com/BackMarket/badoom.git"
+  description: "GIT_URL"
+  type: string
+  required: true
+  label: GITURL
+  group: "Git Settings"
 - variable: serviceType
   default: "NodePort"
   description: "WordPress Service type"
